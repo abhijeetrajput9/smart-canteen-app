@@ -1,0 +1,6 @@
+{
+  "name": "Smart Canteen",
+  "description": "A smart campus canteen mobile app to browse food menus, customize orders, manage the cart, and track live order progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
